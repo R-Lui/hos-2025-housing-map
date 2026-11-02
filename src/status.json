@@ -1,0 +1,1395 @@
+{
+  "result": [
+    {
+      "court": "啟欣苑",
+      "slug": "kai-yan",
+      "availableCount": 0,
+      "maxArea": null,
+      "hasOver40": false,
+      "units": []
+    },
+    {
+      "court": "冠山苑",
+      "slug": "kwun-shan",
+      "availableCount": 0,
+      "maxArea": null,
+      "hasOver40": false,
+      "units": []
+    },
+    {
+      "court": "安秀苑",
+      "slug": "on-sau",
+      "availableCount": 51,
+      "maxArea": 36.5,
+      "hasOver40": false,
+      "units": [
+        {
+          "block": "A",
+          "floor": 1,
+          "unit": 3,
+          "area": 26.4
+        },
+        {
+          "block": "A",
+          "floor": 1,
+          "unit": 4,
+          "area": 27.1
+        },
+        {
+          "block": "A",
+          "floor": 1,
+          "unit": 19,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 1,
+          "unit": 28,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 2,
+          "unit": 20,
+          "area": 27.1
+        },
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 19,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 5,
+          "unit": 3,
+          "area": 26.4
+        },
+        {
+          "block": "A",
+          "floor": 5,
+          "unit": 27,
+          "area": 27.1
+        },
+        {
+          "block": "A",
+          "floor": 6,
+          "unit": 3,
+          "area": 26.4
+        },
+        {
+          "block": "A",
+          "floor": 6,
+          "unit": 10,
+          "area": 36.1
+        },
+        {
+          "block": "A",
+          "floor": 8,
+          "unit": 27,
+          "area": 27.1
+        },
+        {
+          "block": "A",
+          "floor": 13,
+          "unit": 6,
+          "area": 26.7
+        },
+        {
+          "block": "A",
+          "floor": 15,
+          "unit": 7,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 15,
+          "unit": 12,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 15,
+          "unit": 19,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 19,
+          "unit": 12,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 19,
+          "unit": 28,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 20,
+          "unit": 6,
+          "area": 26.7
+        },
+        {
+          "block": "A",
+          "floor": 20,
+          "unit": 28,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 21,
+          "unit": 14,
+          "area": 36
+        },
+        {
+          "block": "A",
+          "floor": 22,
+          "unit": 19,
+          "area": 25.9
+        },
+        {
+          "block": "A",
+          "floor": 27,
+          "unit": 27,
+          "area": 27.1
+        },
+        {
+          "block": "A",
+          "floor": 28,
+          "unit": 6,
+          "area": 26.7
+        },
+        {
+          "block": "A",
+          "floor": 28,
+          "unit": 11,
+          "area": 36.1
+        },
+        {
+          "block": "A",
+          "floor": 29,
+          "unit": 17,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 30,
+          "unit": 5,
+          "area": 27.1
+        },
+        {
+          "block": "A",
+          "floor": 30,
+          "unit": 6,
+          "area": 26.7
+        },
+        {
+          "block": "A",
+          "floor": 31,
+          "unit": 11,
+          "area": 36.1
+        },
+        {
+          "block": "A",
+          "floor": 33,
+          "unit": 3,
+          "area": 26.4
+        },
+        {
+          "block": "A",
+          "floor": 33,
+          "unit": 18,
+          "area": 34.8
+        },
+        {
+          "block": "B",
+          "floor": 2,
+          "unit": 3,
+          "area": 25.9
+        },
+        {
+          "block": "B",
+          "floor": 3,
+          "unit": 26,
+          "area": 26.4
+        },
+        {
+          "block": "B",
+          "floor": 4,
+          "unit": 23,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 5,
+          "unit": 4,
+          "area": 27
+        },
+        {
+          "block": "B",
+          "floor": 6,
+          "unit": 3,
+          "area": 25.9
+        },
+        {
+          "block": "B",
+          "floor": 11,
+          "unit": 2,
+          "area": 34.8
+        },
+        {
+          "block": "B",
+          "floor": 12,
+          "unit": 12,
+          "area": 35.7
+        },
+        {
+          "block": "B",
+          "floor": 12,
+          "unit": 23,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 15,
+          "unit": 4,
+          "area": 27
+        },
+        {
+          "block": "B",
+          "floor": 15,
+          "unit": 18,
+          "area": 36.1
+        },
+        {
+          "block": "B",
+          "floor": 17,
+          "unit": 6,
+          "area": 36.5
+        },
+        {
+          "block": "B",
+          "floor": 21,
+          "unit": 23,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 22,
+          "unit": 25,
+          "area": 27.1
+        },
+        {
+          "block": "B",
+          "floor": 24,
+          "unit": 11,
+          "area": 34.8
+        },
+        {
+          "block": "B",
+          "floor": 25,
+          "unit": 2,
+          "area": 34.8
+        },
+        {
+          "block": "B",
+          "floor": 26,
+          "unit": 26,
+          "area": 26.4
+        },
+        {
+          "block": "B",
+          "floor": 29,
+          "unit": 23,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 31,
+          "unit": 4,
+          "area": 27
+        },
+        {
+          "block": "B",
+          "floor": 32,
+          "unit": 3,
+          "area": 25.9
+        },
+        {
+          "block": "B",
+          "floor": 32,
+          "unit": 4,
+          "area": 27
+        },
+        {
+          "block": "B",
+          "floor": 32,
+          "unit": 25,
+          "area": 27.1
+        }
+      ]
+    },
+    {
+      "court": "昭明苑",
+      "slug": "chiu-ming",
+      "availableCount": 0,
+      "maxArea": null,
+      "hasOver40": false,
+      "units": []
+    },
+    {
+      "court": "啟悅苑",
+      "slug": "kai-yuet",
+      "availableCount": 0,
+      "maxArea": null,
+      "hasOver40": false,
+      "units": []
+    },
+    {
+      "court": "安楹苑",
+      "slug": "on-ying",
+      "availableCount": 16,
+      "maxArea": 36.3,
+      "hasOver40": false,
+      "units": [
+        {
+          "block": "A",
+          "floor": 2,
+          "unit": 14,
+          "area": 36.3
+        },
+        {
+          "block": "A",
+          "floor": 22,
+          "unit": 13,
+          "area": 36.3
+        },
+        {
+          "block": "A",
+          "floor": 24,
+          "unit": 18,
+          "area": 36.3
+        },
+        {
+          "block": "A",
+          "floor": 24,
+          "unit": 22,
+          "area": 36.3
+        },
+        {
+          "block": "A",
+          "floor": 25,
+          "unit": 4,
+          "area": 36.3
+        },
+        {
+          "block": "A",
+          "floor": 26,
+          "unit": 5,
+          "area": 36.3
+        },
+        {
+          "block": "A",
+          "floor": 26,
+          "unit": 22,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 3,
+          "unit": 14,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 12,
+          "unit": 23,
+          "area": 26.2
+        },
+        {
+          "block": "B",
+          "floor": 14,
+          "unit": 21,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 15,
+          "unit": 19,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 18,
+          "unit": 4,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 18,
+          "unit": 5,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 20,
+          "unit": 4,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 25,
+          "unit": 1,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 26,
+          "unit": 4,
+          "area": 36.3
+        }
+      ]
+    },
+    {
+      "court": "安麗苑",
+      "slug": "on-lai",
+      "availableCount": 33,
+      "maxArea": 39.6,
+      "hasOver40": false,
+      "units": [
+        {
+          "block": "A",
+          "floor": 1,
+          "unit": 19,
+          "area": 38.7
+        },
+        {
+          "block": "A",
+          "floor": 2,
+          "unit": 12,
+          "area": 26.6
+        },
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 20,
+          "area": 39.6
+        },
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 22,
+          "area": 38.9
+        },
+        {
+          "block": "A",
+          "floor": 4,
+          "unit": 14,
+          "area": 34.8
+        },
+        {
+          "block": "A",
+          "floor": 6,
+          "unit": 18,
+          "area": 38.7
+        },
+        {
+          "block": "A",
+          "floor": 7,
+          "unit": 22,
+          "area": 38.9
+        },
+        {
+          "block": "A",
+          "floor": 7,
+          "unit": 23,
+          "area": 38.9
+        },
+        {
+          "block": "A",
+          "floor": 8,
+          "unit": 11,
+          "area": 35.8
+        },
+        {
+          "block": "B",
+          "floor": 2,
+          "unit": 12,
+          "area": 26.6
+        },
+        {
+          "block": "B",
+          "floor": 10,
+          "unit": 17,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 11,
+          "unit": 16,
+          "area": 35.7
+        },
+        {
+          "block": "B",
+          "floor": 12,
+          "unit": 20,
+          "area": 25.8
+        },
+        {
+          "block": "B",
+          "floor": 13,
+          "unit": 17,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 14,
+          "unit": 18,
+          "area": 35
+        },
+        {
+          "block": "B",
+          "floor": 15,
+          "unit": 1,
+          "area": 25.8
+        },
+        {
+          "block": "B",
+          "floor": 17,
+          "unit": 12,
+          "area": 26.6
+        },
+        {
+          "block": "B",
+          "floor": 23,
+          "unit": 11,
+          "area": 35.8
+        },
+        {
+          "block": "B",
+          "floor": 25,
+          "unit": 11,
+          "area": 35.8
+        },
+        {
+          "block": "C",
+          "floor": 1,
+          "unit": 1,
+          "area": 25.8
+        },
+        {
+          "block": "C",
+          "floor": 2,
+          "unit": 17,
+          "area": 26.7
+        },
+        {
+          "block": "C",
+          "floor": 5,
+          "unit": 12,
+          "area": 26.6
+        },
+        {
+          "block": "C",
+          "floor": 12,
+          "unit": 19,
+          "area": 35
+        },
+        {
+          "block": "C",
+          "floor": 14,
+          "unit": 6,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 14,
+          "unit": 11,
+          "area": 35.8
+        },
+        {
+          "block": "C",
+          "floor": 14,
+          "unit": 12,
+          "area": 26.6
+        },
+        {
+          "block": "C",
+          "floor": 17,
+          "unit": 3,
+          "area": 34.8
+        },
+        {
+          "block": "C",
+          "floor": 17,
+          "unit": 6,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 17,
+          "unit": 18,
+          "area": 35
+        },
+        {
+          "block": "C",
+          "floor": 19,
+          "unit": 17,
+          "area": 26.7
+        },
+        {
+          "block": "C",
+          "floor": 25,
+          "unit": 1,
+          "area": 25.8
+        },
+        {
+          "block": "C",
+          "floor": 25,
+          "unit": 11,
+          "area": 35.8
+        },
+        {
+          "block": "C",
+          "floor": 25,
+          "unit": 19,
+          "area": 35
+        }
+      ]
+    },
+    {
+      "court": "安樺苑",
+      "slug": "on-wah",
+      "availableCount": 27,
+      "maxArea": 45.8,
+      "hasOver40": true,
+      "units": [
+        {
+          "block": "A",
+          "floor": 2,
+          "unit": 6,
+          "area": 37.3
+        },
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 2,
+          "area": 37.8
+        },
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 9,
+          "area": 37.3
+        },
+        {
+          "block": "A",
+          "floor": 4,
+          "unit": 5,
+          "area": 37.9
+        },
+        {
+          "block": "A",
+          "floor": 5,
+          "unit": 12,
+          "area": 37.9
+        },
+        {
+          "block": "A",
+          "floor": 7,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "A",
+          "floor": 8,
+          "unit": 5,
+          "area": 37.9
+        },
+        {
+          "block": "A",
+          "floor": 16,
+          "unit": 1,
+          "area": 37.7
+        },
+        {
+          "block": "A",
+          "floor": 16,
+          "unit": 9,
+          "area": 37.3
+        },
+        {
+          "block": "A",
+          "floor": 22,
+          "unit": 4,
+          "area": 37.7
+        },
+        {
+          "block": "A",
+          "floor": 25,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "A",
+          "floor": 28,
+          "unit": 13,
+          "area": 37.9
+        },
+        {
+          "block": "A",
+          "floor": 28,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "B",
+          "floor": 1,
+          "unit": 18,
+          "area": 45.8
+        },
+        {
+          "block": "B",
+          "floor": 2,
+          "unit": 18,
+          "area": 45.8
+        },
+        {
+          "block": "B",
+          "floor": 5,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "B",
+          "floor": 7,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "B",
+          "floor": 8,
+          "unit": 12,
+          "area": 37.9
+        },
+        {
+          "block": "B",
+          "floor": 9,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "B",
+          "floor": 11,
+          "unit": 7,
+          "area": 37.8
+        },
+        {
+          "block": "B",
+          "floor": 18,
+          "unit": 3,
+          "area": 37.8
+        },
+        {
+          "block": "B",
+          "floor": 18,
+          "unit": 5,
+          "area": 37.9
+        },
+        {
+          "block": "B",
+          "floor": 20,
+          "unit": 1,
+          "area": 37.7
+        },
+        {
+          "block": "B",
+          "floor": 21,
+          "unit": 17,
+          "area": 27.5
+        },
+        {
+          "block": "B",
+          "floor": 22,
+          "unit": 10,
+          "area": 37.9
+        },
+        {
+          "block": "B",
+          "floor": 23,
+          "unit": 6,
+          "area": 37.3
+        },
+        {
+          "block": "B",
+          "floor": 26,
+          "unit": 7,
+          "area": 37.8
+        }
+      ]
+    },
+    {
+      "court": "兆翠苑",
+      "slug": "siu-tsui",
+      "availableCount": 1,
+      "maxArea": 26.6,
+      "hasOver40": false,
+      "units": [
+        {
+          "block": "B",
+          "floor": 26,
+          "unit": 3,
+          "area": 26.6
+        }
+      ]
+    },
+    {
+      "court": "朗天苑",
+      "slug": "long-tin",
+      "availableCount": 73,
+      "maxArea": 41.9,
+      "hasOver40": true,
+      "units": [
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 7,
+          "area": 26
+        },
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 8,
+          "area": 36.2
+        },
+        {
+          "block": "A",
+          "floor": 4,
+          "unit": 2,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 5,
+          "unit": 22,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 6,
+          "unit": 12,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 6,
+          "unit": 21,
+          "area": 29.7
+        },
+        {
+          "block": "A",
+          "floor": 7,
+          "unit": 9,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 8,
+          "unit": 14,
+          "area": 26
+        },
+        {
+          "block": "A",
+          "floor": 9,
+          "unit": 16,
+          "area": 30.1
+        },
+        {
+          "block": "A",
+          "floor": 9,
+          "unit": 22,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 13,
+          "unit": 9,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 13,
+          "unit": 14,
+          "area": 26
+        },
+        {
+          "block": "A",
+          "floor": 14,
+          "unit": 5,
+          "area": 26.7
+        },
+        {
+          "block": "A",
+          "floor": 14,
+          "unit": 11,
+          "area": 26.1
+        },
+        {
+          "block": "A",
+          "floor": 18,
+          "unit": 14,
+          "area": 26
+        },
+        {
+          "block": "A",
+          "floor": 21,
+          "unit": 8,
+          "area": 36.2
+        },
+        {
+          "block": "A",
+          "floor": 22,
+          "unit": 8,
+          "area": 36.2
+        },
+        {
+          "block": "A",
+          "floor": 22,
+          "unit": 22,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 25,
+          "unit": 3,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 27,
+          "unit": 5,
+          "area": 26.7
+        },
+        {
+          "block": "A",
+          "floor": 27,
+          "unit": 12,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 29,
+          "unit": 16,
+          "area": 30.1
+        },
+        {
+          "block": "A",
+          "floor": 29,
+          "unit": 17,
+          "area": 28.9
+        },
+        {
+          "block": "A",
+          "floor": 33,
+          "unit": 9,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 35,
+          "unit": 7,
+          "area": 26
+        },
+        {
+          "block": "A",
+          "floor": 39,
+          "unit": 13,
+          "area": 26.8
+        },
+        {
+          "block": "A",
+          "floor": 39,
+          "unit": 21,
+          "area": 29.7
+        },
+        {
+          "block": "A",
+          "floor": 42,
+          "unit": 3,
+          "area": 35.7
+        },
+        {
+          "block": "A",
+          "floor": 42,
+          "unit": 20,
+          "area": 41.8
+        },
+        {
+          "block": "A",
+          "floor": 44,
+          "unit": 16,
+          "area": 30.1
+        },
+        {
+          "block": "B",
+          "floor": 3,
+          "unit": 17,
+          "area": 36
+        },
+        {
+          "block": "B",
+          "floor": 14,
+          "unit": 15,
+          "area": 36.4
+        },
+        {
+          "block": "B",
+          "floor": 22,
+          "unit": 1,
+          "area": 41.5
+        },
+        {
+          "block": "B",
+          "floor": 23,
+          "unit": 18,
+          "area": 35.7
+        },
+        {
+          "block": "B",
+          "floor": 24,
+          "unit": 9,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 27,
+          "unit": 11,
+          "area": 36
+        },
+        {
+          "block": "B",
+          "floor": 28,
+          "unit": 7,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 28,
+          "unit": 8,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 31,
+          "unit": 1,
+          "area": 41.5
+        },
+        {
+          "block": "B",
+          "floor": 34,
+          "unit": 19,
+          "area": 41.6
+        },
+        {
+          "block": "B",
+          "floor": 35,
+          "unit": 6,
+          "area": 36
+        },
+        {
+          "block": "B",
+          "floor": 36,
+          "unit": 19,
+          "area": 41.6
+        },
+        {
+          "block": "B",
+          "floor": 37,
+          "unit": 2,
+          "area": 41.9
+        },
+        {
+          "block": "B",
+          "floor": 37,
+          "unit": 7,
+          "area": 36.3
+        },
+        {
+          "block": "B",
+          "floor": 37,
+          "unit": 18,
+          "area": 35.7
+        },
+        {
+          "block": "B",
+          "floor": 42,
+          "unit": 18,
+          "area": 35.7
+        },
+        {
+          "block": "B",
+          "floor": 44,
+          "unit": 2,
+          "area": 41.9
+        },
+        {
+          "block": "B",
+          "floor": 45,
+          "unit": 22,
+          "area": 41.5
+        },
+        {
+          "block": "B",
+          "floor": 46,
+          "unit": 14,
+          "area": 36
+        },
+        {
+          "block": "B",
+          "floor": 47,
+          "unit": 1,
+          "area": 41.5
+        },
+        {
+          "block": "B",
+          "floor": 48,
+          "unit": 9,
+          "area": 36.3
+        },
+        {
+          "block": "C",
+          "floor": 4,
+          "unit": 19,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 5,
+          "unit": 16,
+          "area": 41.1
+        },
+        {
+          "block": "C",
+          "floor": 6,
+          "unit": 18,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 8,
+          "unit": 19,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 8,
+          "unit": 22,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 12,
+          "unit": 10,
+          "area": 41.2
+        },
+        {
+          "block": "C",
+          "floor": 12,
+          "unit": 14,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 14,
+          "unit": 7,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 19,
+          "unit": 21,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 22,
+          "unit": 21,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 32,
+          "unit": 19,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 36,
+          "unit": 18,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 38,
+          "unit": 14,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 39,
+          "unit": 18,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 40,
+          "unit": 2,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 40,
+          "unit": 8,
+          "area": 41.6
+        },
+        {
+          "block": "C",
+          "floor": 41,
+          "unit": 8,
+          "area": 41.6
+        },
+        {
+          "block": "C",
+          "floor": 43,
+          "unit": 22,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 46,
+          "unit": 8,
+          "area": 41.6
+        },
+        {
+          "block": "C",
+          "floor": 46,
+          "unit": 22,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 47,
+          "unit": 2,
+          "area": 35.7
+        },
+        {
+          "block": "C",
+          "floor": 47,
+          "unit": 14,
+          "area": 35.7
+        }
+      ]
+    },
+    {
+      "court": "啟盈苑",
+      "slug": "kai-ying",
+      "availableCount": 0,
+      "maxArea": null,
+      "hasOver40": false,
+      "units": []
+    },
+    {
+      "court": "安柏苑",
+      "slug": "on-pak",
+      "availableCount": 2,
+      "maxArea": 37.9,
+      "hasOver40": false,
+      "units": [
+        {
+          "block": "A",
+          "floor": 1,
+          "unit": 18,
+          "area": 37.8
+        },
+        {
+          "block": "A",
+          "floor": 12,
+          "unit": 16,
+          "area": 37.9
+        }
+      ]
+    },
+    {
+      "court": "裕興苑",
+      "slug": "yu-hing",
+      "availableCount": 10,
+      "maxArea": 37.9,
+      "hasOver40": false,
+      "units": [
+        {
+          "block": "A",
+          "floor": 3,
+          "unit": 8,
+          "area": 35.4
+        },
+        {
+          "block": "A",
+          "floor": 7,
+          "unit": 3,
+          "area": 36.1
+        },
+        {
+          "block": "A",
+          "floor": 12,
+          "unit": 10,
+          "area": 27.2
+        },
+        {
+          "block": "A",
+          "floor": 13,
+          "unit": 3,
+          "area": 36.1
+        },
+        {
+          "block": "A",
+          "floor": 19,
+          "unit": 24,
+          "area": 36.2
+        },
+        {
+          "block": "A",
+          "floor": 23,
+          "unit": 9,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 9,
+          "unit": 3,
+          "area": 36.1
+        },
+        {
+          "block": "B",
+          "floor": 16,
+          "unit": 6,
+          "area": 36.5
+        },
+        {
+          "block": "B",
+          "floor": 16,
+          "unit": 9,
+          "area": 26.7
+        },
+        {
+          "block": "B",
+          "floor": 21,
+          "unit": 12,
+          "area": 37.9
+        }
+      ]
+    }
+  ],
+  "missing": []
+}
